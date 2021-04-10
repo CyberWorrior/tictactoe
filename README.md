@@ -1,5 +1,5 @@
 # tictactoe
 Simple Tic Tac Toe game created using react jsx
 
-# demo
+# Demo
 Play TicTacToe [Here](https://simpletictactoe.surge.sh)
